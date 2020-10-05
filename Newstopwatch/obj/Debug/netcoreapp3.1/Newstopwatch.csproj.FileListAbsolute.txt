@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Newstopwatch\Newstopwatch\bin\Debug\netcoreapp3.1\Newstopwatch.exe
+C:\Users\lenovo\source\repos\Newstopwatch\Newstopwatch\bin\Debug\netcoreapp3.1\Newstopwatch.deps.json
+C:\Users\lenovo\source\repos\Newstopwatch\Newstopwatch\bin\Debug\netcoreapp3.1\Newstopwatch.runtimeconfig.json
+C:\Users\lenovo\source\repos\Newstopwatch\Newstopwatch\bin\Debug\netcoreapp3.1\Newstopwatch.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Newstopwatch\Newstopwatch\bin\Debug\netcoreapp3.1\Newstopwatch.dll
+C:\Users\lenovo\source\repos\Newstopwatch\Newstopwatch\bin\Debug\netcoreapp3.1\Newstopwatch.pdb
+C:\Users\lenovo\source\repos\Newstopwatch\Newstopwatch\obj\Debug\netcoreapp3.1\Newstopwatch.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Newstopwatch\Newstopwatch\obj\Debug\netcoreapp3.1\Newstopwatch.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Newstopwatch\Newstopwatch\obj\Debug\netcoreapp3.1\Newstopwatch.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Newstopwatch\Newstopwatch\obj\Debug\netcoreapp3.1\Newstopwatch.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Newstopwatch\Newstopwatch\obj\Debug\netcoreapp3.1\Newstopwatch.dll
+C:\Users\lenovo\source\repos\Newstopwatch\Newstopwatch\obj\Debug\netcoreapp3.1\Newstopwatch.pdb
+C:\Users\lenovo\source\repos\Newstopwatch\Newstopwatch\obj\Debug\netcoreapp3.1\Newstopwatch.genruntimeconfig.cache
